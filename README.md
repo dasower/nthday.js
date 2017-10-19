@@ -1,8 +1,8 @@
 # nthday.js
 Javascript function to figure out the nth day of the month i.e. (last Sunday)  (third Wednesday)
 
-Parameters:
-index: n’th occurrence of the specified day<br/>
+Parameters:<br/>
+<b>index</b>: n’th occurrence of the specified day<br/>
   1 - first <br/>
   2 - second <br/>
   3 - third <br/>
@@ -10,11 +10,11 @@ index: n’th occurrence of the specified day<br/>
   5 - fifth <br/>
   6 - last <br/>
 	
-day: daynumber – javascript way where sunday is 0 and is saturday is 6 <br/>
+<b>day</b>: daynumber – javascript way where sunday is 0 and is saturday is 6 <br/>
  <br/>
-month: which is 1-12 [optional – defaults to current month] <br/>
+<b>month</b>: which is 1-12 [optional – defaults to current month] <br/>
 
-year: Full year – four digits [optional – defaults to current] <br/>
+<b>year</b>: Full year – four digits [optional – defaults to current] <br/>
  <br/> <br/>
 Example executions :
 var myDay = getNthDayOfMonth(1, 0, 9, '');
