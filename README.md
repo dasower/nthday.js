@@ -9,8 +9,11 @@ index: n’th occurrence of the specified day
 	4 - fourth
 	5 - fifth
 	6 - last
+	
 day: daynumber – javascript way where sunday is 0 and is saturday is 6
+
 month: which is 1-12 [optional – defaults to current month]
+
 year: Full year – four digits [optional – defaults to current]
 
 Example executions :
