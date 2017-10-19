@@ -3,12 +3,12 @@ Javascript function to figure out the nth day of the month i.e. (last Sunday)  (
 
 Parameters:
 index: n’th occurrence of the specified day
-	1 - first
-	2 - second
-	3 - third
-	4 - fourth
-	5 - fifth
-	6 - last
+  1 - first
+  2 - second
+  3 - third
+  4 - fourth
+  5 - fifth
+  6 - last
 	
 day: daynumber – javascript way where sunday is 0 and is saturday is 6
 
